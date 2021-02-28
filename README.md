@@ -3,7 +3,7 @@
 ### You can connect with me on:
 
 [<img align="left" alt="Discord: Claud#9034" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
-[<img align="left" alt="Claud | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Claud | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" action="mailto:klaudijuskung@gmail.com" />][klaudijuskung@gmail.com]
 [<img align="left" alt="Claud | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
@@ -34,6 +34,6 @@
 
 </details>
 
-[discord]: Claud#9034
+[discord]: https://discordapp.com/users/813878250375348234
+[klaudijuskung@gmail.com]: (mailto:klaudijuskung@gmail.com)
 [youtube]: https://www.youtube.com/channel/UCcDVObsx6LNqU4umzXuvTsw
-[gmail]: (mailto:klaudijuskung@gmail.com)
