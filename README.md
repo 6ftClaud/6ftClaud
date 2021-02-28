@@ -2,8 +2,8 @@
 #### I'm a Vilnius University student with a little-too-broad interest in all things IT :)  
 ### You can connect with me on:
 
+[<a href="mailto:klaudijuskung@gmail.com"><img align="left" alt="Claud | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" ></a>]
 [<img align="left" alt="Discord: Claud#9034" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
-[<img align="left" alt="Claud | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" action="mailto:klaudijuskung@gmail.com" />][klaudijuskung@gmail.com]
 [<img align="left" alt="Claud | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
@@ -29,11 +29,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="6ftClaud's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=6ftClaud&show_icons=true&hide_border=true" />
-
 </details>
 
 [discord]: https://discordapp.com/users/813878250375348234
-[klaudijuskung@gmail.com]: (mailto:klaudijuskung@gmail.com)
 [youtube]: https://www.youtube.com/channel/UCcDVObsx6LNqU4umzXuvTsw
