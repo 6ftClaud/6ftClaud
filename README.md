@@ -22,9 +22,10 @@
 <img align="left" alt="HTML 5" width="26px" src="https://github.com/github/explore/blob/main/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://github.com/github/explore/blob/main/topics/css/css.png" />
 <img align="left" alt="React" width="26px" src="https://github.com/github/explore/blob/main/topics/react/react.png" />
-<img align="left" alt="Open-CV" width="26px" src="https://github.com/github/explore/blob/main/topics/opencv/opencv.png" />
+<img align="left" alt="Open-CV" width="26px" src="https://github.com/github/explore/blob/main/topics/opencv/opencv.png" />  
 
-<br />
+<br />  
+<br />  
 
 <details>
   <summary>:zap: GitHub Stats</summary>
